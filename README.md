@@ -15,7 +15,7 @@ I'm graduating May 2026 from Farmingdale State College. I am interning with Ligh
 ## 🔭 What I'm up to
 
 - 📚 Currently: I'm maintaining several homelab projects, such as a Proxmox hypverisor, Pi-Hole DNS server, Windows Server with AD, Synology NAS, Splunk logging server, and Jellyfin media with automation stack.
-- 🎯 Looking for: I am looking for SOC analyst, IT SecOps, and DevOps roles.
+- 🎯 Looking for: SOC analyst, IT SecOps, and DevOps roles.
 
 ## 🔗 Links
 
